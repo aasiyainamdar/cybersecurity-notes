@@ -1,0 +1,51 @@
+# Day 2 - Networking
+
+## Private vs Public IP
+
+Private IP:
+- Used inside a local network (home, college, office)
+- Not visible on the internet
+- Example: 192.168.1.1
+
+Public IP:
+- Visible on the internet
+- Assigned by ISP
+- Used to access websites
+
+## MAC Address
+
+MAC Address is a unique hardware identifier of a device.
+It is assigned to network interfaces.
+
+Example:
+00:1A:2B:3C:4D:5E
+
+## Ports
+
+Ports are communication endpoints used for different services.
+
+Common Ports:
+- 80 → HTTP
+- 443 → HTTPS
+- 22 → SSH
+- 21 → FTP
+
+## Practical
+
+- Checked IP using ipconfig
+- Viewed MAC address using ipconfig /all
+## Ping Command
+
+Ping is used to check connectivity between two devices on a network.
+
+Command:
+ping google.com
+
+It shows:
+- Whether the server is reachable
+- Response time (latency)
+
+## Practical
+
+- Used ping command to check internet connectivity
+- Observed response time and packets sent/received
