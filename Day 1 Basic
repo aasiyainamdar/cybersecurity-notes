@@ -1,0 +1,16 @@
+# Day 1 - Basics
+
+## What is Internet
+Internet is a global network that connects millions of devices and allows communication.
+
+## IP Address
+IP Address is a unique identifier for a device on a network.
+Example: 192.168.1.1
+
+## Types of IP
+- Private IP (used inside local network)
+- Public IP (used on internet)
+
+## DNS (Domain Name System)
+DNS converts domain names into IP addresses.
+Example: google.com → IP address
