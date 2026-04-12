@@ -1,0 +1,24 @@
+# Day 2 - Networking
+
+## Private vs Public IP
+
+Private IP:
+- Used inside local network
+- Not visible on internet
+
+Public IP:
+- Visible on internet
+- Given by ISP
+
+## MAC Address
+MAC Address is a unique hardware identifier of a device.
+Example: 00:1A:2B:3C:4D:5E
+
+## Ports
+Ports are communication endpoints.
+
+Common Ports:
+- 80 → HTTP
+- 443 → HTTPS
+- 22 → SSH
+- 21 → FTP
